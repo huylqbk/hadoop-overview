@@ -5,6 +5,8 @@ These are complete notes on Hands on practice, exercises and installation of had
 The live notebook can be found at: [axsauze.github.io/hadoop-overview](https://axsauze.github.io/hadoop-overview/) 
 
 List of contents: 
+* Section 0
+    - [spark-architecture](section-0/0-1.md)
 
 * Section 1
     - [1-1 - Hortonworks Installation](section-1/1-1.md) 
